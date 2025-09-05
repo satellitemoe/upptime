@@ -41,18 +41,18 @@
     "icon": "https://cloud.google.com/favicon.ico",
     "slug": "satellite-chatbot",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.97%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 278,
     "timeDay": 301,
     "timeWeek": 307,
     "timeMonth": 278,
     "timeYear": 278,
     "dailyMinutesDown": {
-      "2025-09-05": 0
+      "2025-09-05": 5
     }
   }
 ]
