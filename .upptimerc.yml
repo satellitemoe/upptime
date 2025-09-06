@@ -22,3 +22,16 @@ status-website:
       href: https://satellite.moe
     - title: 24/7
       href: https://twitch.tv/satellitemoe
+
+i18n:
+  allSystemsOperational: 🟩 Todos los sistemas funcionando
+  liveStatus: Estado Actual
+  overallUptime: Tiempo de Funcionamiento: $UPTIME
+  overallUptimeTitle: Tiempo de Funcionamiento
+  averageResponseTime: Tiempo de Respuesta Promedio: $TIMEms
+  averageResponseTimeTitle: Tiempo de Respuesta Promedio
+  up: Funcionando
+  down: Con Problemas
+  degraded: Servicio Degradado
+  footer: Esta página es de [código abierto]($REPO), funciona gracias a [Upptime](https://upptime.js.org)
+  
