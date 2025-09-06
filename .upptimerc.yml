@@ -28,7 +28,7 @@ i18n:
   liveStatus: Estado Actual
   overallUptime: Tiempo de Funcionamiento: $UPTIME
   overallUptimeTitle: Tiempo de Funcionamiento
-  averageResponseTime: Tiempo de Respuesta Promedio: $TIMEms
+  averageResponseTime: Tiempo de Respuesta Promedio\: $TIMEms
   averageResponseTimeTitle: Tiempo de Respuesta Promedio
   up: Funcionando
   down: Con Problemas
