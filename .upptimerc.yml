@@ -16,7 +16,7 @@ status-website:
   logoUrl: https://satellite.moe/favicon.svg
   name: Satellite Status
   navbar:
-    - title: Status
+    - title: Estado
       href: /
     - title: Sitio Web
       href: https://satellite.moe
@@ -39,16 +39,16 @@ i18n:
   incidentBack: "← Volver a todos los incidentes"
   pastIncidents: "Incidentes Pasados"
   pastIncidentsResolved: Resolved in $MINUTES minutes with $POSTS posts
-  liveStatus: "Estado Actual"
+  liveStatus: "Estado del sistema"
   overallUptime: "Tiempo de Funcionamiento: $UPTIME"
   overallUptimeTitle: "Tiempo de Funcionamiento"
   averageResponseTime: "Tiempo de Respuesta promedio: $TIMEms"
   averageResponseTimeTitle: "Tiempo de Respuesta Promedio"
   sevelDayResponseTime: "Tiempo de Respuesta de los últimos 7 días"
   responseTimeMs: "Tiempo de Respuesta (ms)"
-  up: "Servicio Funcionando"
-  down: "Servicio Caido"
-  degraded: "Servicio Degradado"
+  up: "Operativo"
+  down: "Interrumpido"
+  degraded: "Limitado"
   ms: ms
   loading: Cargando
   navGitHub: GitHub
@@ -82,6 +82,6 @@ i18n:
   duration24H: 24h
   duration7D: 7d
   duration30D: 30d
-  duration1Y: 1y
-  durationAll: all
-  locale: en-US
+  duration1Y: 1a
+  durationAll: todo
+  locale: es-CL
