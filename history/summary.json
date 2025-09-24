@@ -24,17 +24,17 @@
     "url": "https://twitch.tv/satellitemoe",
     "icon": "https://icons.duckduckgo.com/ip3/twitch.tv.ico",
     "slug": "satellite-24-7",
-    "status": "up",
+    "status": "down",
     "uptime": "98.14%",
     "uptimeDay": "42.96%",
     "uptimeWeek": "91.85%",
     "uptimeMonth": "98.12%",
     "uptimeYear": "98.14%",
-    "time": 212,
-    "timeDay": 272,
-    "timeWeek": 255,
-    "timeMonth": 212,
-    "timeYear": 212,
+    "time": 210,
+    "timeDay": 260,
+    "timeWeek": 249,
+    "timeMonth": 210,
+    "timeYear": 210,
     "dailyMinutesDown": {
       "2025-09-24": 821
     }
