@@ -1,7 +1,7 @@
 url: https://twitch.tv/satellitemoe
-status: up
-code: 200
-responseTime: 447
-lastUpdated: 2025-09-24T10:39:20.081Z
+status: down
+code: 429
+responseTime: 94
+lastUpdated: 2025-09-24T10:49:21.848Z
 startTime: 2025-08-25T01:30:07.467Z
 generator: Upptime <https://github.com/upptime/upptime>
