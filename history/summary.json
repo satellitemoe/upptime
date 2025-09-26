@@ -10,11 +10,11 @@
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 1187,
-    "timeDay": 418,
-    "timeWeek": 3568,
-    "timeMonth": 1203,
-    "timeYear": 1187,
+    "time": 1165,
+    "timeDay": 358,
+    "timeWeek": 3585,
+    "timeMonth": 1190,
+    "timeYear": 1165,
     "dailyMinutesDown": {
       "2025-09-23": 26
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/twitch.tv.ico",
     "slug": "satellite-24-7",
     "status": "up",
-    "uptime": "97.50%",
-    "uptimeDay": "22.55%",
+    "uptime": "97.58%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "88.94%",
     "uptimeMonth": "97.45%",
-    "uptimeYear": "97.50%",
-    "time": 220,
-    "timeDay": 276,
-    "timeWeek": 266,
-    "timeMonth": 222,
-    "timeYear": 220,
+    "uptimeYear": "97.58%",
+    "time": 223,
+    "timeDay": 345,
+    "timeWeek": 277,
+    "timeMonth": 224,
+    "timeYear": 223,
     "dailyMinutesDown": {
       "2025-09-24": 1115
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 243,
-    "timeDay": 372,
-    "timeWeek": 294,
-    "timeMonth": 245,
-    "timeYear": 243,
+    "time": 244,
+    "timeDay": 286,
+    "timeWeek": 312,
+    "timeMonth": 247,
+    "timeYear": 244,
     "dailyMinutesDown": {}
   }
 ]
