@@ -40,7 +40,7 @@
     "url": "$CHATBOT_URL",
     "icon": "https://cloud.google.com/favicon.ico",
     "slug": "satellite-chatbot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
     "uptimeDay": "84.06%",
     "uptimeWeek": "97.72%",
