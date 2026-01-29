@@ -4,10 +4,10 @@
     "url": "https://satellite.moe",
     "icon": "https://satellite.moe/favicon.ico",
     "slug": "satellite-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 534,
@@ -15,7 +15,9 @@
     "timeWeek": 329,
     "timeMonth": 355,
     "timeYear": 534,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-29": 2
+    }
   },
   {
     "name": "Satellite 24/7",
@@ -41,18 +43,18 @@
     "icon": "https://cloud.google.com/favicon.ico",
     "slug": "satellite-chatbot",
     "status": "down",
-    "uptime": "93.35%",
+    "uptime": "92.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "65.67%",
-    "uptimeYear": "93.35%",
+    "uptimeMonth": "63.68%",
+    "uptimeYear": "92.99%",
     "time": 6539,
     "timeDay": 0,
     "timeWeek": 234,
     "timeMonth": 11991,
     "timeYear": 6539,
     "dailyMinutesDown": {
-      "2026-01-29": 154,
+      "2026-01-29": 1030,
       "2026-01-28": 1440,
       "2026-01-27": 1440,
       "2026-01-26": 1440,
