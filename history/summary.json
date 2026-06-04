@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 432,
-    "timeDay": 300,
-    "timeWeek": 271,
-    "timeMonth": 267,
-    "timeYear": 432,
+    "time": 433,
+    "timeDay": 644,
+    "timeWeek": 300,
+    "timeMonth": 281,
+    "timeYear": 433,
     "dailyMinutesDown": {
       "2026-01-29": 45
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 192,
-    "timeDay": 159,
-    "timeWeek": 152,
-    "timeMonth": 177,
-    "timeYear": 192,
+    "time": 191,
+    "timeDay": 145,
+    "timeWeek": 153,
+    "timeMonth": 178,
+    "timeYear": 191,
     "dailyMinutesDown": {}
   },
   {
@@ -43,14 +43,14 @@
     "icon": "https://cloud.google.com/favicon.ico",
     "slug": "satellite-chatbot",
     "status": "down",
-    "uptime": "52.21%",
+    "uptime": "52.16%",
     "uptimeDay": "12.04%",
     "uptimeWeek": "3.79%",
     "uptimeMonth": "0.77%",
-    "uptimeYear": "52.21%",
+    "uptimeYear": "52.16%",
     "time": 10031,
-    "timeDay": 10776,
-    "timeWeek": 35644,
+    "timeDay": 11246,
+    "timeWeek": 31999,
     "timeMonth": 25189,
     "timeYear": 10031,
     "dailyMinutesDown": {
@@ -186,11 +186,12 @@
       "2026-05-26": 1440,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
-      "2026-06-03": 1141,
+      "2026-06-03": 1267,
       "2026-06-02": 1440,
       "2026-06-01": 1440,
       "2026-05-31": 1440,
-      "2026-05-30": 1440
+      "2026-05-30": 1440,
+      "2026-06-04": 283
     }
   }
 ]
