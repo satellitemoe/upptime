@@ -13,7 +13,7 @@
     "time": 448,
     "timeDay": 517,
     "timeWeek": 1042,
-    "timeMonth": 431,
+    "timeMonth": 438,
     "timeYear": 448,
     "dailyMinutesDown": {
       "2026-01-29": 45
@@ -33,7 +33,7 @@
     "time": 191,
     "timeDay": 47,
     "timeWeek": 148,
-    "timeMonth": 155,
+    "timeMonth": 151,
     "timeYear": 191,
     "dailyMinutesDown": {}
   },
@@ -42,17 +42,17 @@
     "url": "$CHATBOT_URL",
     "icon": "https://cloud.google.com/favicon.ico",
     "slug": "satellite-chatbot",
-    "status": "down",
+    "status": "up",
     "uptime": "51.52%",
     "uptimeDay": "4.52%",
     "uptimeWeek": "3.76%",
     "uptimeMonth": "0.86%",
     "uptimeYear": "51.52%",
-    "time": 10489,
-    "timeDay": 24195,
-    "timeWeek": 20735,
-    "timeMonth": 25065,
-    "timeYear": 10489,
+    "time": 10581,
+    "timeDay": 23864,
+    "timeWeek": 21087,
+    "timeMonth": 24988,
+    "timeYear": 10581,
     "dailyMinutesDown": {
       "2026-01-30": 1381,
       "2026-01-29": 1440,
@@ -193,7 +193,7 @@
       "2026-05-30": 1440,
       "2026-06-05": 1309,
       "2026-06-04": 1440,
-      "2026-06-07": 1306,
+      "2026-06-07": 1362,
       "2026-06-06": 1431
     }
   }
