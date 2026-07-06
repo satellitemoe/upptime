@@ -43,11 +43,11 @@
     "icon": "https://cloud.google.com/favicon.ico",
     "slug": "satellite-chatbot",
     "status": "down",
-    "uptime": "47.09%",
+    "uptime": "47.07%",
     "uptimeDay": "5.87%",
     "uptimeWeek": "4.16%",
     "uptimeMonth": "3.19%",
-    "uptimeYear": "47.09%",
+    "uptimeYear": "47.07%",
     "time": 11187,
     "timeDay": 36134,
     "timeWeek": 18607,
@@ -222,7 +222,7 @@
       "2026-06-30": 1440,
       "2026-07-03": 1305,
       "2026-07-04": 1370,
-      "2026-07-06": 1,
+      "2026-07-06": 161,
       "2026-07-05": 1440
     }
   }
