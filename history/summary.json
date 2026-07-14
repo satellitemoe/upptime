@@ -12,8 +12,8 @@
     "uptimeYear": "99.99%",
     "time": 426,
     "timeDay": 213,
-    "timeWeek": 234,
-    "timeMonth": 244,
+    "timeWeek": 248,
+    "timeMonth": 242,
     "timeYear": 426,
     "dailyMinutesDown": {
       "2026-01-29": 45
@@ -32,7 +32,7 @@
     "uptimeYear": "100.00%",
     "time": 185,
     "timeDay": 161,
-    "timeWeek": 134,
+    "timeWeek": 143,
     "timeMonth": 138,
     "timeYear": 185,
     "dailyMinutesDown": {}
@@ -43,15 +43,15 @@
     "icon": "https://cloud.google.com/favicon.ico",
     "slug": "satellite-chatbot",
     "status": "down",
-    "uptime": "45.98%",
+    "uptime": "45.96%",
     "uptimeDay": "1.44%",
     "uptimeWeek": "2.08%",
     "uptimeMonth": "3.06%",
-    "uptimeYear": "45.98%",
+    "uptimeYear": "45.96%",
     "time": 11475,
     "timeDay": 33289,
     "timeWeek": 20648,
-    "timeMonth": 16622,
+    "timeMonth": 16896,
     "timeYear": 11475,
     "dailyMinutesDown": {
       "2026-01-30": 1381,
@@ -229,8 +229,9 @@
       "2026-07-08": 1440,
       "2026-07-07": 1440,
       "2026-07-11": 1327,
-      "2026-07-13": 1412,
-      "2026-07-12": 1440
+      "2026-07-13": 1419,
+      "2026-07-12": 1440,
+      "2026-07-14": 174
     }
   }
 ]
