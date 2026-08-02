@@ -42,17 +42,17 @@
     "url": "$CHATBOT_URL",
     "icon": "https://cloud.google.com/favicon.ico",
     "slug": "satellite-chatbot",
-    "status": "down",
-    "uptime": "43.56%",
-    "uptimeDay": "7.25%",
-    "uptimeWeek": "4.21%",
+    "status": "up",
+    "uptime": "43.53%",
+    "uptimeDay": "7.26%",
+    "uptimeWeek": "4.22%",
     "uptimeMonth": "1.23%",
-    "uptimeYear": "43.56%",
-    "time": 11866,
-    "timeDay": 18201,
-    "timeWeek": 15044,
-    "timeMonth": 18434,
-    "timeYear": 11866,
+    "uptimeYear": "43.53%",
+    "time": 11968,
+    "timeDay": 22158,
+    "timeWeek": 17191,
+    "timeMonth": 18900,
+    "timeYear": 11968,
     "dailyMinutesDown": {
       "2026-01-30": 1381,
       "2026-01-29": 1440,
@@ -250,7 +250,7 @@
       "2026-07-30": 1440,
       "2026-07-29": 1439,
       "2026-08-01": 1335,
-      "2026-08-02": 209
+      "2026-08-02": 658
     }
   }
 ]
