@@ -6,10 +6,9 @@ sites:
     url: https://satellite.moe
     icon: https://satellite.moe/favicon.ico
   - name: Satellite 24/7
-    url: https://twitch.tv/satellitemoe
-  - name: Satellite Chatbot
-    url: $CHATBOT_URL
-    icon: https://cloud.google.com/favicon.ico
+    url: https://decapi.me/twitch/uptime/satellitemoe
+    icon: https://twitch.tv/favicon.ico
+    __dangerous__body_down: "satellitemoe is offline"
 
 status-website:
   cname: status.satellite.moe
