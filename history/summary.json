@@ -22,17 +22,19 @@
     "url": "https://decapi.me/twitch/uptime/satellitemoe",
     "icon": "https://twitch.tv/favicon.ico",
     "slug": "satellite-24-7",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 211,
-    "timeDay": 434,
-    "timeWeek": 325,
-    "timeMonth": 574,
-    "timeYear": 210,
-    "dailyMinutesDown": {}
+    "timeDay": 319,
+    "timeWeek": 310,
+    "timeMonth": 562,
+    "timeYear": 209,
+    "dailyMinutesDown": {
+      "2026-11-10": 0
+    }
   }
 ]
